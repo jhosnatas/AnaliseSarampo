@@ -20,7 +20,3 @@ Este trabalho contará com a participação da comunidade, utilizando dados gove
 Diante da constatação de que a baixa adesão vacinal está resultando no retorno de doenças consideradas erradicadas no Brasil, optamos por executar um software capaz de mostrar as tendências futuras decorrentes dessa baixa adesão.
 
 Palavras-chave: Vacinação, Sarampo, Banco de dados, Aprendizado de máquina, Dashboard, Projeção.
-
----
-
-Esse é um exemplo de como você pode estruturar seu README.md. Lembre-se de adicionar mais informações relevantes ao seu projeto, como seções de instalação, uso, contribuição, licença e contato. Se tiver alguma dúvida adicional ou precisar de mais ajuda, é só me perguntar!
